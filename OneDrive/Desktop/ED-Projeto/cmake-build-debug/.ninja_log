@@ -1,0 +1,14 @@
+# ninja log v6
+11	1251	7736299325382850	CMakeFiles/ED_Projeto.dir/Project-DataStructure/Bibliotecas/arvore.c.obj	345241cf69e99072
+35	412	7736395575434463	CMakeFiles/ED_Projeto.dir/Project-DataStructure/Bibliotecas/lista_com_vetor.c.obj	69869351cc21375d
+127	676	7736299326542927	CMakeFiles/ED_Projeto.dir/Project-DataStructure/Bibliotecas/quicksort.c.obj	b4ab2a2df38a7d4
+100	1125	7736299326283027	CMakeFiles/ED_Projeto.dir/Project-DataStructure/Bibliotecas/mergesort.c.obj	68508560450dc882
+82	408	7736300892319378	CMakeFiles/ED_Projeto.dir/Project-DataStructure/Bibliotecas/listadupla.c.obj	7252f89ba86b2ffc
+50	388	7736395575584529	CMakeFiles/ED_Projeto.dir/Project-DataStructure/Bibliotecas/quick_sort.c.obj	6572aeaf346ade8d
+25	341	7736395575344450	CMakeFiles/ED_Projeto.dir/Project-DataStructure/Bibliotecas/fila_de_prioridade.c.obj	ee740d8500645b4f
+11	310	7736381786990060	CMakeFiles/ED_Projeto.dir/Project-DataStructure/main.c.obj	f5e583fcac80fcb0
+414	649	7736395579224742	ED_Projeto.exe	50d5cf25ccbd1584
+9	597	7742491975481443	build.ninja	4f3b97dc620889cc
+101	584	7736358602179159	CMakeFiles/ED_Projeto.dir/Project-DataStructure/Bibliotecas/merge_sort.c.obj	a37368635a2041a8
+43	414	7736395575514442	CMakeFiles/ED_Projeto.dir/Project-DataStructure/Bibliotecas/lista_dupla.c.obj	8118f8f0dfc6291d
+11	405	7736395575204415	CMakeFiles/ED_Projeto.dir/Project-DataStructure/Bibliotecas/arvore_AVL.c.obj	c6e848f14d543639
