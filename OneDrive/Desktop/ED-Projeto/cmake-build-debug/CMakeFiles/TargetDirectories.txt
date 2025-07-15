@@ -1,3 +1,0 @@
-C:/Users/lacer/OneDrive/Desktop/ED-Projeto/cmake-build-debug/CMakeFiles/ED_Projeto.dir
-C:/Users/lacer/OneDrive/Desktop/ED-Projeto/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lacer/OneDrive/Desktop/ED-Projeto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
